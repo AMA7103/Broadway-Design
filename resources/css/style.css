@@ -28,3 +28,15 @@ p {
 #New_York {
   font-size: 23px;
 }
+.Ending {
+  background-color: dimgray;
+  text-align: left;
+}
+#End {
+  font-size: 11px;
+  color: white;
+}
+#Finish {
+  font-size: 18px;
+  color: white;
+}
